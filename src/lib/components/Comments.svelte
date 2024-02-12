@@ -7,7 +7,7 @@
     <p>comments loading....</p>
   {:then comments}
     <h1 class="font-medium mb-5">{comments.totalCommentsCount} Comments</h1>
-    <h1 class="font-medium mb-5"> 500 Comments</h1>
+    <h1 class="font-medium mb-5"> 50 Comments</h1>
 
     <div class="space-y-5">
 
